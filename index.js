@@ -584,7 +584,7 @@ conn.ev.on('messages.upsert', async (mek) => {
                     m.react("🧑🏻‍💻")
                   }
 //_________Ofline___________________
-if (config.ALWAYS_ONLINE === false") {
+if (config.ALWAYS_ONLINE === "false") {
         conn.sendPresenceUpdate('unavailable'); // Sets the bot's last seen status
 }
 //_________________________WORK TYPE____________________________________________________________________
