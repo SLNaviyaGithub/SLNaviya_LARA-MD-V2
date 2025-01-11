@@ -104,7 +104,7 @@ _${config.STATUES_REPLY}_
 *ᴀᴜᴛᴏ ᴛʏᴘɪɴɢ ➭* _${config.AUTO_TYPING}_
 *ᴀɴᴛɪ ᴅᴇʟᴇᴛᴇ ➭* _${config.ANTI_DELETE}_
 *ɪɴʙᴏx ʙʟᴏᴄᴋ ➭* _${config.INBOX_BLOCK}_
-*ᴀʟᴡᴀʏꜱ ᴏɴʟɪɴᴇ ➭* _${ALWAYS_ONLINE}_
+*ᴀʟᴡᴀʏꜱ ᴏɴʟɪɴᴇ ➭* _${config.ALWAYS_ONLINE}_
 
 > Lααɾα-ᴍᴅ ✻
 `
@@ -584,7 +584,7 @@ conn.ev.on('messages.upsert', async (mek) => {
                     m.react("🧑🏻‍💻")
                   }
 //_________Ofline___________________
-if (config.ALWAYS_ONLINE === "true") {
+if (config.ALWAYS_ONLINE === false") {
         conn.sendPresenceUpdate('unavailable'); // Sets the bot's last seen status
 }
 //_________________________WORK TYPE____________________________________________________________________
