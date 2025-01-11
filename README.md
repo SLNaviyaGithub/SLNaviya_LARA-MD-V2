@@ -29,13 +29,13 @@
 <h4>Click the SESSION_ID Button</h4>
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් එක click කරන්න)</h5> 
 <br>
-<h3>SEVER ➊</h3>
+<h3>SEVER ❶</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com/pair">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 </div>
 <br>
 
