@@ -44,10 +44,10 @@
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
+<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -188,9 +188,9 @@ jobs:
 <div align="center">
 <h3>🌸 LARA-MD Developer Team 👤</h3>
 
-| SADEESHA 👤              | VIHANGA 👤              | SADEEPA 👤            |
-|---------------------|---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
+| SADEESHA 👤              | VIHANGA 👤              |
+|---------------------|---------------------|
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) |
 | DEVELOPER & FOUNDER | MODULE CREATE | BUG TESTER |
 </div>
 <hr>
